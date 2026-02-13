@@ -109,7 +109,7 @@ Distance : 250 cm & Smoke : 856
 
 Status : SAFE
 
-<img width="1215" height="652" alt="image" src="https://github.com/user-attachments/assets/bf06b687-4659-4c67-a722-5060ec5990cd" />
+![Circuit Diagram](images/output.png)
 
 ---
 
@@ -176,4 +176,5 @@ This project is designed and tested using:
 
 ## 👨‍💻 Author
 
-Developed as an ESP32 Embedded Systems Project.
+Jay Sudani
+B.E. Student | Embedded Systems Enthusiast
