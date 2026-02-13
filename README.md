@@ -1,5 +1,4 @@
-# 🏠 # 🛡️ Smart Home Shield
-ESP32 Multi-Sensor Security & Safety Monitoring System
+# 🏠  ESP32 Multi-Sensor Security & Safety Monitoring System
 
 ---
 
